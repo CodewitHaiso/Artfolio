@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/public/pictures/gb3.png" alt="Github Demo" title="Github Demo">
+</p>
 <h2 align="center">Graphic Designer Website</h2>
 
 Welcome to my React portfolio template. This is a fully responsive, customizable portfolio built with React, designed to showcase your skills, projects, and experience. Whether you're a web developer, designer, or any other professional looking to establish an online presence, this portfolio template is perfect for presenting your work in a clean and modern way.
